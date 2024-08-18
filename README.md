@@ -1,1 +1,1 @@
-# odin-recipes
+this current project is going to be on creating a webpage to show different links to different recipes. By the end of this project i will have showcased my HTML skills on how to add images to a webpage and how to add absolute links and also how to appropriately layout a webpage  with different sized headings and have some paragraphs and so on.# odin-recipes
